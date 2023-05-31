@@ -1,0 +1,7 @@
+face_recognition ~=1.3.0
+opencv-python~=4.7.0.72
+numpy~=1.24.3
+pynput~=1.7.6
+PyYAML~=6.0
+psutil~=5.9.5
+Cython~=0.29.35
