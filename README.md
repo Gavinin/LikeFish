@@ -37,7 +37,7 @@ How to modify Config.yaml, please visit this [CONFIG.md](docs%2FCONFIG.md).
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [LGPLv3](LICENSE) License - see the LICENSE.md file for details
 
 ## Acknowledgments
 

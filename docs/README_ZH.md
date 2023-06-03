@@ -37,7 +37,7 @@ python3 main.py
 
 ## 许可证
 
-本项目使用 [NAME HERE] 许可证 - 详见 LICENSE.md 文件。
+本项目使用 [LGPLv3](..%2FLICENSE) 许可证 - 详见 LICENSE.md 文件。
 
 ## 致谢
 
